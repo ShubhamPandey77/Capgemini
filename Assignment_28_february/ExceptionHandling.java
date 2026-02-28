@@ -1,4 +1,3 @@
-package com.vn;
 import java.util.HashMap;
 
 		// TODO Auto-generated method stub

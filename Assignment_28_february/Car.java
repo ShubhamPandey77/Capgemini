@@ -1,4 +1,3 @@
-package com.vn;
 
 import java.sql.Date;
 

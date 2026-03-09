@@ -25,9 +25,9 @@ public class ExceptionHandling {
         SubMap users = new SubMap();
 
         try {
-            users.put("vaduni", "11");
-            users.put("niranjan", "22");
-            users.put("vaduni", "newpass"); 
+            users.put("Shubham", "11");
+            users.put("Pandey", "22");
+            users.put("Mahi", "newpass"); 
         } catch (UsernameExistsException e) {
             System.out.println("there is an exception "+e.getMessage());
         
